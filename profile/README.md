@@ -1,6 +1,4 @@
-## Hi there 👋
-
-We are X-Gen Group from Xi'an Jiaotong University.
+## Hi 👋, We are X-Gen Group from Xi'an Jiaotong University.
 
 <!--
 
